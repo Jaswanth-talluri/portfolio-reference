@@ -5,6 +5,9 @@
     color: white;
     transition:0.4s ease-in;
 }
+html{
+    scroll-behavior: smooth;
+}
 body{
     background-color: rgb(0, 0, 0);
 }
